@@ -1,0 +1,9 @@
+[submodule "batima"]
+	path = batima
+	url = https://github.com/fefedao/batima.git
+[submodule "batima-android-ver"]
+	path = batima-android-ver
+	url = https://github.com/fefedao/batima-android-ver.git
+[submodule "batima-desktop-ver"]
+	path = batima-desktop-ver
+	url = https://github.com/fefedao/batima-desktop-ver.git
